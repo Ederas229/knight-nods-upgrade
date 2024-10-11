@@ -1,0 +1,40 @@
+{
+  "id": "knight-damage",
+  "title": "Knight Damage",
+  "description": "",
+  "authors": [
+    {
+      "name": "Ederas"
+    }
+  ],
+  "url": "This is auto replaced",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": [],
+  "esmodules": [
+    "module/knight-damage.js"
+  ],
+  "styles": [
+    "styles/knight-damage.css"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "knight",
+        "type": "system"
+      }],
+    "requires": [],
+    "conflicts": []
+  },
+  "socket": false,
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "library": false
+}

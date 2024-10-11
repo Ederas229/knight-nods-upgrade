@@ -1,6 +1,6 @@
 {
-  "id": "knight-damage",
-  "title": "Knight Damage",
+  "id": "knight-nods-upgrade",
+  "title": "Knight Nods Upgrade",
   "description": "",
   "authors": [
     {
@@ -19,10 +19,10 @@
   },
   "scripts": [],
   "esmodules": [
-    "module/knight-damage.js"
+    "module/knight-nods-upgrade.js"
   ],
   "styles": [
-    "styles/knight-damage.css"
+    "styles/knight-nods-upgrade.css"
   ],
   "relationships": {
     "systems": [

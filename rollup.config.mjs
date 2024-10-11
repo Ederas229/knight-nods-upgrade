@@ -6,7 +6,7 @@
 import { nodeResolve } from '@rollup/plugin-node-resolve';
 
 export default () => ({
-  input: 'src/module/knight-damage.js',
+  input: 'src/module/knight-nods-upgrade.js',
   output: {
     dir: 'dist/module',
     format: 'es',

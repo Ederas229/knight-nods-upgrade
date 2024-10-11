@@ -20,7 +20,7 @@ import rollupConfig from './rollup.config.mjs';
 /*  CONFIGURATION   */
 /********************/
 
-const packageId = 'knight-damage';
+const packageId = 'knight-nods-upgrade';
 const sourceDirectory = './src';
 const distDirectory = './dist';
 const stylesDirectory = `${sourceDirectory}/styles`;
